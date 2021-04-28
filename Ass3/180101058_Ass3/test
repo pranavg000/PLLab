@@ -1,0 +1,4 @@
+putStrLn "Test Inputs:"
+test_input
+putStrLn "Outputs:"
+test_output
